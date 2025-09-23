@@ -339,4 +339,7 @@ if __name__ == "__main__":
         jarvis.stop()
     except Exception as e:
         logger.error(f"Unexpected error: {e}")
-        print("An error occurred. Please check the logs for details.")
+        print("An error occurred. Please check the logs for details.")1
+
+
+        p
