@@ -6,7 +6,7 @@ import datetime
 import wikipedia
 import os
 import json
-import threading    ........
+import threading    
 import time
 from enum import Enum
 import logging
