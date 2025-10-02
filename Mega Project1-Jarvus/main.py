@@ -5,7 +5,7 @@ import requests
 import datetime
 import wikipedia
 import os
-import json     ...........
+import json     ............
 import threading
 import time
 from enum import Enum
