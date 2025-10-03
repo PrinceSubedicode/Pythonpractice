@@ -276,6 +276,6 @@ if __name__ == "__main__":
         logger.error(f"Unexpected error: {e}")
         print("An error occurred. Please check the logs for details.")
 
-        ..
+        ...
 
         
