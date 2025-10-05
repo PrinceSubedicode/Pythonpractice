@@ -47,7 +47,7 @@ class JarvisAssistant:
         # Command patterns with regex for better matching
         self.command_patterns = {
             CommandType.TIME: re.compile(r'.*(time|clock).*'),
-            CommandType.DATE: re.compile(r'.*(date|day|today).*'), 
+            CommandType.DATE: re.compile(r'.*(date|day|today).*'), .
             CommandType.OPEN_YOUTUBE: re.compile(r'.*(open|start).*youtube.*'),
             CommandType.OPEN_GOOGLE: re.compile(r'.*(open|start).*google.*'),
             CommandType.SEARCH: re.compile(r'.*search (for)? (.+)'),
