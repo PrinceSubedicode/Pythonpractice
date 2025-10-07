@@ -10,7 +10,7 @@ import threading
 import time
 from enum import Enum
 import logging
-from typing import Optional, Callable, Dict, List
+from typing import Optional, Callable, Dict, List .
 import re
 
 # Set up logging
