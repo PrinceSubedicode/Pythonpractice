@@ -14,4 +14,3 @@ elif (you == 1 and comp == 2) or (you == 2 and comp == 3) or (you == 3 and comp 
     print("You Win!")
 else:
     print("Computer Wins!")
-..
